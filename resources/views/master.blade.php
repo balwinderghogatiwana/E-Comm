@@ -43,6 +43,11 @@
   .detail-img{
       height: 200px;
   }
+  .cart-List-devider{
+      border-bottom: 1px solid #53555652;
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+  }
 </style>
 <script>
     // Script write here
